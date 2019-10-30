@@ -4,7 +4,7 @@
  
  ### responsive website for playing games, communication, SELL GAMES
  
-#### TECHNOLOGY:
+#### TECHNOLOGYS:
  **HTML**
  **CSS**
  **JAVASCRIPT**
