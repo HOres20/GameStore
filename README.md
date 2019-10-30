@@ -6,11 +6,11 @@
   <img src="https://images.launchbox-app.com/9670ad95-016c-42a2-af83-6e679a890ba2.png">
  
 #### TECHNOLOGYS:
- **HTML**
- **CSS**
- **JAVASCRIPT**
- **MYSQL**
- **QUERY**
+ **HTML**<br></br>
+ **CSS**<br></br>
+ **JAVASCRIPT**<br></br>
+ **MYSQL**<br></br>
+ **QUERY**<br></br>
 
 
  #### features:
