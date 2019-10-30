@@ -3,7 +3,7 @@
  
  
  ### responsive website for playing games, communication, SELL GAMES 
-  <img src="https://images.launchbox-app.com/9670ad95-016c-42a2-af83-6e679a890ba2.png"
+  <img src="https://images.launchbox-app.com/9670ad95-016c-42a2-af83-6e679a890ba2.png">
  
 #### TECHNOLOGYS:
  **HTML**
