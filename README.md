@@ -1,5 +1,5 @@
  quality games
- clead professional web design
+ clear professional web design
  web page sr user friendly navigation
  simple and professional web design
  web page speed
