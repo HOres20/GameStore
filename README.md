@@ -14,14 +14,14 @@
 
 
  #### features:
- **quality games**
- **clear professional web design**
- **web page sr user friendly navigation**
- **simple and professional web design**
- **web page speed**
- **search engine optimisation**
- **web compatibility**
- **play games online**
+ **quality games**<br></br>
+ **clear professional web design**<br></br>
+ **web page sr user friendly navigation**<br></br>
+ **simple and professional web design**<br></br>
+ **web page speed**<br></br>
+ **search engine optimisation**<br></br>
+ **web compatibility**<br></br>
+ **play games online**<br></br>
 
 # PLAN :
 ### PLAN FOR WEEK 8-FINISH THE MAIN PAGE
