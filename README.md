@@ -4,11 +4,15 @@
  
  ### responsive website for playing games, communication, SELL GAMES
  
- #### features:
+#### TECHNOLOGY:
  **HTML**
  **CSS**
  **JAVASCRIPT**
  **MYSQL**
+ **QUERY**
+
+
+ #### features:
  **quality games**
  **clear professional web design**
  **web page sr user friendly navigation**
