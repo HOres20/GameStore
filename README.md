@@ -11,17 +11,22 @@
  **JAVASCRIPT**<br></br>
  **MYSQL**<br></br>
  **QUERY**<br></br>
+ **NODE.JS**<br></br>
+ **BOOT STRAP**<br></br>
+ **CODEPEN**<br></br>
 
 
  #### features:
- **quality games**<br></br>
- **clear professional web design**<br></br>
- **web page sr user friendly navigation**<br></br>
- **simple and professional web design**<br></br>
- **web page speed**<br></br>
- **search engine optimisation**<br></br>
- **web compatibility**<br></br>
- **play games online**<br></br>
+ 
+ **In our web you can search and buy some game.**<br></br>
+
+ **The web can show your purchased library.**<br></br>
+
+  **The game that you see on the web filtered by your age and country.**<br></br>
+
+  **User can add their credit card.**<br></br>
+
+  **User can pin their favorite game to wish list.**<br></br>
 
 # PLAN :
 ### PLAN FOR WEEK 8-FINISH THE MAIN PAGE
