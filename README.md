@@ -12,7 +12,7 @@
  **MYSQL**<br></br>
  **QUERY**<br></br>
  **NODE.JS**<br></br>
- **BOOT STRAP**<br></br>
+ **BOOTSTRAP**<br></br>
  **CODEPEN**<br></br>
 
 
