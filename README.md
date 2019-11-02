@@ -5,7 +5,7 @@
  ### responsive website for playing games, communication, SELL GAMES 
   <img src="https://images.launchbox-app.com/9670ad95-016c-42a2-af83-6e679a890ba2.png">
  
-## TECHNOLOGYS:
+# TECHNOLOGYS:
 ### - HTML
  ### - **CSS**<br></br>
  ### - **JAVASCRIPT**<br></br>
@@ -16,7 +16,7 @@
  ### - **CODEPEN**<br></br>
 
 
- ## features:
+ # features:
  
 ### - **In our web you can search and buy some game.**<br></br>
 
