@@ -6,14 +6,12 @@
   <img src="https://images.launchbox-app.com/9670ad95-016c-42a2-af83-6e679a890ba2.png">
  
 # TECHNOLOGYS:
-### - HTML
+ ### - **HTML**<br></br>
  ### - **CSS**<br></br>
  ### - **JAVASCRIPT**<br></br>
  ### - **MYSQL**<br></br>
- ### - **QUERY**<br></br>
- ### - **NODE.JS**<br></br>
+ ### - **JQUERY**<br></br>
  ### - **BOOTSTRAP**<br></br>
- ### - **CODEPEN**<br></br>
 
 
  # features:
@@ -32,7 +30,7 @@
 ### - PLAN FOR WEEK 8-FINISH THE MAIN PAGE
 ### - PLAN FOR WEEK 9- FINISH THE MENU AND README
 ### - PLAN FOR WEEK 10 - FINISH JAVASCRIPT
-### - PLAN FOR WEEK 11 - AD THRE OTHER PAGES SUCH AS SEARCH AND LIBRARY , STORE , CONTACT
+### - PLAN FOR WEEK 11 - ADD THE OTHER PAGES SUCH AS SEARCH AND HAVE LIBRARY , STORE , CONTACT
 ### - PLAN FOR WEEK 12 - FINISH REGISTRATION SYSTEM
 ### - PLAN FOR WEEK 13 - OPTIMIZATION FRONTEND AND BACKEND
 ### - PLAN FOR WEEK 14- FINISH PROJECT
