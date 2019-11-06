@@ -5,14 +5,13 @@
  ### responsive website for playing games, communication, SELL GAMES 
   <img src="https://images.launchbox-app.com/9670ad95-016c-42a2-af83-6e679a890ba2.png">
  
-# TECHNOLOGYS:
-## - Front End
- ###- **HTML**<br></br>
- ###- **CSS**<br></br>
- ###- **JAVASCRIPT**<br></br>
- ###- **BOOTSTRAP**<br></br>
+# - FRONT END
+ ### - **HTML**<br></br>
+ ### - **CSS**<br></br>
+ ### - **JAVASCRIPT**<br></br>
+ ### - **BOOTSTRAP**<br></br>
 
-## - Back End
+# - BACK END
  ### - **MYSQL**<br></br>
  ### - **JQUERY**<br></br>
 
