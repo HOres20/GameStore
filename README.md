@@ -7,10 +7,10 @@
  
 # TECHNOLOGYS:
 ## - Front End
- ### - **HTML**<br></br>
- ### - **CSS**<br></br>
- ### - **JAVASCRIPT**<br></br>
- ### - **BOOTSTRAP**<br></br>
+ ###- **HTML**<br></br>
+ ###- **CSS**<br></br>
+ ###- **JAVASCRIPT**<br></br>
+ ###- **BOOTSTRAP**<br></br>
 
 ## - Back End
  ### - **MYSQL**<br></br>
