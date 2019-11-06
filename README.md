@@ -1,5 +1,5 @@
-# about my project
-## gebranstore
+# About my project
+## GEBRANSTORE
  
  
  ### responsive website for playing games, communication, SELL GAMES 
@@ -16,7 +16,7 @@
 
  # features:
  
-### - **In our web you can search and buy some game.**<br></br>
+###  - **In our web you can search and buy some game.**<br></br>
 
 ###  - **The web can show your purchased library.**<br></br>
 
