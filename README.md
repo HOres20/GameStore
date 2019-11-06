@@ -6,13 +6,13 @@
   <img src="https://images.launchbox-app.com/9670ad95-016c-42a2-af83-6e679a890ba2.png">
  
 # TECHNOLOGYS:
--## Front End
+## - Front End
  ### - **HTML**<br></br>
  ### - **CSS**<br></br>
  ### - **JAVASCRIPT**<br></br>
  ### - **BOOTSTRAP**<br></br>
 
--## Back End
+## - Back End
  ### - **MYSQL**<br></br>
  ### - **JQUERY**<br></br>
 
