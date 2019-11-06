@@ -1,4 +1,4 @@
-# About my project
+# ABOUT MY PROJECT
 ## GEBRANSTORE
  
  
@@ -14,7 +14,7 @@
  ### - **BOOTSTRAP**<br></br>
 
 
- # features:
+ # FEATURES:
  
 ###  - **In our web you can search and buy some game.**<br></br>
 
