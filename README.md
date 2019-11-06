@@ -12,7 +12,7 @@
  ### - **BOOTSTRAP**<br></br>
 
 # - BACK END
- ### - **MYSQL**<br></br>
+ ### - **DATABASE**<br></br>
  ### - **JQUERY**<br></br>
 
 
