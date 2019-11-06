@@ -5,6 +5,16 @@
  ### responsive website for playing games, communication, SELL GAMES 
   <img src="https://images.launchbox-app.com/9670ad95-016c-42a2-af83-6e679a890ba2.png">
  
+# Technology
+ ### Code Editor
+    
+    - Atom
+    - Visual studio code
+    
+ ### Browser
+    - Google chrome
+ 
+
 #  FRONT END:
   - **HTML**<br></br>
   - **CSS**<br></br>
