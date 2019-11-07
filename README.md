@@ -27,11 +27,11 @@
 
 
  # FEATURES:
-  - In our web you can search and buy some game.**<br></br>
-  - The web can show your purchased library.**<br></br>
-  - The game that you see on the web filtered by your age and country.**<br></br>
-  - User can add their credit card.**<br></br>
-  - User can pin their favorite game to wish list.**<br></br>
+  - In our web you can search and buy some game.
+  - The web can show your purchased library.
+  - The game that you see on the web filtered by your age and country.
+  - User can add their credit card.
+  - User can pin their favorite game to wish list.
 
 # PLAN :
  - PLAN FOR WEEK 8-FINISH THE MAIN PAGE
