@@ -3,7 +3,7 @@
 
  # introduction
  ### You can buy games with low price . You also can play the games for free. You will meet a lot of People with same interst inb my website. You will be able to download a lot of exciting games from here. You will find all new games update news from my website.
- hr
+ <hr>
   <img src="https://images.launchbox-app.com/9670ad95-016c-42a2-af83-6e679a890ba2.png">
  
 # Technology
